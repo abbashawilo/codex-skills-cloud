@@ -22,3 +22,16 @@ The following ten repositories were inspected and appended in the current increm
 - `cloudflare/security-audit-skill` — genuine Skill; audit runtime inactive.
 - `trycompai/crm` — application with embedded `.agents/skills/` Skills; application not installed.
 - `krayin/laravel-crm` — application with embedded `.github/skills/` Skills; application not installed.
+
+## Marketing, SEO, design, and AI sources added
+
+- `gcpdev/llm-council-skill` — one stored-only LLM Council Skill; external model/API requirements deferred.
+- `aiwithremy/claude-skills-llm-council` — one distinct root LLM Council Skill; preserved separately.
+- `mvanhorn/last30days-skill` — one stored-only research Skill; network/account access deferred.
+- `cheaper-inference/OmniRoute` — embedded Skills collected; application, proxy, server, MCP, and routing runtime excluded.
+- `headroomlabs-ai/headroom` — application/framework reference-only; no genuine Skill found.
+- `joeseesun/qiaomu-seo` — one stored-only SEO Skill.
+- `vercel-labs/agent-skills` — six distinct Skills imported; three byte-identical existing Skills skipped.
+- `nextlevelbuilder/ui-ux-pro-max-skill` — seven canonical `.claude/skills/` Skills imported; generated mirrors excluded.
+- `zubair-trabzada/geo-seo-claude` — sixteen GEO/SEO Skills imported.
+- `AgriciDaniel/claude-seo` — thirty-five Skills imported; duplicate DataForSEO path skipped and distinct extension image Skill preserved with a path-qualified identity.
