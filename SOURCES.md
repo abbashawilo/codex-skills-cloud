@@ -7,3 +7,18 @@ Classification is based on static tree inspection. `REGISTERED_SKILL_SOURCE` mea
 See `skills-manifest.json` for the exact SHA, branch, selected paths, counts, and installation status for every source.
 
 No source repository was cloned into this library. Only selected Skill source files were saved.
+
+## Incremental sources added
+
+The following ten repositories were inspected and appended in the current incremental update. Exact branches, commits, classifications, licenses, and selected paths are in `skills-manifest.json`.
+
+- `public-apis/public-apis` — reference-only; no genuine Skill found.
+- `DietrichGebert/ponytail` — genuine Skills; canonical `skills/` paths selected.
+- `alibaba/open-code-review` — genuine Skills; duplicate plugin mirrors excluded.
+- `tirth8205/code-review-graph` — genuine Skills.
+- `kepano/obsidian-skills` — genuine Skills.
+- `obra/superpowers` — genuine Skills.
+- `NVIDIA/SkillSpector` — genuine Skill; test fixtures excluded.
+- `cloudflare/security-audit-skill` — genuine Skill; audit runtime inactive.
+- `trycompai/crm` — application with embedded `.agents/skills/` Skills; application not installed.
+- `krayin/laravel-crm` — application with embedded `.github/skills/` Skills; application not installed.

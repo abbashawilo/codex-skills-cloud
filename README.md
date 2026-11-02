@@ -9,3 +9,5 @@ Private, versioned collection of third-party AI Skills and reference metadata fo
 - Non-Skill resources: `resources/`
 
 This repository stores source files only. It does not install dependencies, activate integrations, run third-party code, or contain credentials.
+
+Current inventory: 30 source repositories and 454 registered Skill definitions. New additions are incremental and source-qualified; existing Skills are preserved.
