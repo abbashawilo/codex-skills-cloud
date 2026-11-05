@@ -573,3 +573,21 @@ This catalog is generated from the committed files and the inspected source inve
 | `geo-schema` | `.agents/skills/zubair-trabzada_geo-seo-claude--geo-schema/SKILL.md` | `skills/geo-schema/SKILL.md` | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) @ `989cae01e8eb` | marketing/SEO/design/AI | CAUTION; registered, stored-only |
 | `geo-technical` | `.agents/skills/zubair-trabzada_geo-seo-claude--geo-technical/SKILL.md` | `skills/geo-technical/SKILL.md` | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) @ `989cae01e8eb` | marketing/SEO/design/AI | CAUTION; registered, stored-only |
 | `geo-update` | `.agents/skills/zubair-trabzada_geo-seo-claude--geo-update/SKILL.md` | `skills/geo-update/SKILL.md` | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) @ `989cae01e8eb` | marketing/SEO/design/AI | CAUTION; registered, stored-only |
+
+## Day Trader Skills (2026-11-05; stored-only, static review)
+
+Source: [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) at pinned commit `3d0f4ef6986f4984b7c6bd46f7ff4f87744c3abd` (MIT). No code or broker integration was executed; no native Codex discovery was tested. These definitions include Python helper scripts and selected JSON examples.
+
+| Skill | Installed path | Status |
+|---|---|---|
+| `trader-alerts` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-alerts/SKILL.md` | registered, stored-only |
+| `trader-analyst` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-analyst/SKILL.md` | registered, stored-only |
+| `trader-broker` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-broker/SKILL.md` | registered, stored-only |
+| `trader-budget` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-budget/SKILL.md` | registered, stored-only |
+| `trader-entry` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-entry/SKILL.md` | registered, stored-only |
+| `trader-exit` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-exit/SKILL.md` | registered, stored-only |
+| `trader-news` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-news/SKILL.md` | registered, stored-only |
+| `trader-pelosi` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-pelosi/SKILL.md` | registered, stored-only |
+| `trader-risk` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-risk/SKILL.md` | registered, stored-only |
+| `trader-scanner` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-scanner/SKILL.md` | registered, stored-only |
+| `trader-timemachine` | `.agents/skills/Jakeschincariol_day-trader-skill--trader-timemachine/SKILL.md` | registered, stored-only |
