@@ -35,3 +35,7 @@ The following ten repositories were inspected and appended in the current increm
 - `nextlevelbuilder/ui-ux-pro-max-skill` — seven canonical `.claude/skills/` Skills imported; generated mirrors excluded.
 - `zubair-trabzada/geo-seo-claude` — sixteen GEO/SEO Skills imported.
 - `AgriciDaniel/claude-seo` — thirty-five Skills imported; duplicate DataForSEO path skipped and distinct extension image Skill preserved with a path-qualified identity.
+
+## Added day-trading source (2026-11-05)
+
+- [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) — 11 genuine Skills with Python entry points, pinned to `3d0f4ef6986f4984b7c6bd46f7ff4f87744c3abd`; MIT license preserved; static source copy only. No executions, accounts, credentials, or broker integration configured. Cloud Python/market-network access and actual Codex discovery remain untested.
